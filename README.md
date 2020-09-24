@@ -1,1 +1,2 @@
-# Hard-copy-Reader-Photo-OCR-with-Text-to-speech-
+# Hard-copy-Reader
+Photo OCR with Text-to-Speech
